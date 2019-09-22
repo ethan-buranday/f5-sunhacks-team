@@ -78,6 +78,65 @@ const libraries = {
         "https://i.kym-cdn.com/photos/images/newsfeed/000/289/977/ab2.gif",
         "https://i.kym-cdn.com/entries/icons/square/000/017/564/40b.jpg",
     ],
+    bg: ["https://memeshappen.com/media/char/2019/04/sad%20kermit.jpg",
+        "https://i.kym-cdn.com/entries/icons/original/000/022/017/thumb.png",
+        "http://thinkingmeme.com/wp-content/uploads/2017/09/26-kermit-meme18.jpg",
+        "https://data.whicdn.com/images/306953847/superthumb.jpg?t=1518189575",
+        "https://media.tenor.com/images/b81f33e3f0637ac5a5d3964e10389e59/tenor.gif",
+        "https://media2.giphy.com/media/XIqCQx02E1U9W/source.gif",
+        "https://i.kym-cdn.com/entries/icons/original/000/027/475/Screen_Shot_2018-10-25_at_11.02.15_AM.png",
+        "https://img.buzzfeed.com/buzzfeed-static/static/2014-12/2/14/enhanced/webdr11/enhanced-6746-1417549717-8.png?downsize=700:*&output-format=auto&output-quality=auto",
+        "https://data.whicdn.com/images/321231653/large.jpg",
+        "https://i.imgur.com/BxWfwbY.jpg",
+        "https://i.redd.it/k0mkl820ny621.jpg",
+        "https://www.dailydot.com/wp-content/uploads/2018/04/confusedmrkrabs-1.png",
+        "https://i.pinimg.com/474x/96/80/c1/9680c17170d7306377487e3e4210795c.jpg",
+        "https://2static1.fjcdn.com/thumbnails/comments/With+all+these+spongebob+reaction+pics+i+can+make+another+_b8e304df9018720026576236993c0061.jpg",
+        "https://img.buzzfeed.com/buzzfeed-static/static/2014-12/2/14/enhanced/webdr11/longform-original-15728-1417549721-3.jpg?downsize=700:*&output-format=auto&output-quality=auto",
+        "https://scontent-vie1-1.cdninstagram.com/v/t51.2885-15/e35/67696097_463532407824445_7509471806845057664_n.jpg?_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_cat=101&se=7&oh=9bf16f22d95c9a20d6b7686ec896fcfc&oe=5E1263A0&ig_cache_key=MjEyNjYzMjcxMzU5NDU4ODU5NA%3D%3D.2",
+        "https://data.whicdn.com/images/274293277/superthumb.jpg?t=1484428059",
+        "http://i.imgur.com/uBtQE5y.png",
+        "https://tse2.mm.bing.net/th?id=OIP.7NITlkOP2ivIPq70l-WSxwHaFj&pid=15.1",
+        "https://pbs.twimg.com/media/EFAvWpXXsAEFou-.jpg:large",
+        "https://data.whicdn.com/images/247035532/large.jpg",
+        "https://media.giphy.com/media/l4FGwORVSXRs2Vflm/giphy.gif",
+        "https://vignette.wikia.nocookie.net/spongebob/images/a/a0/Evil-patrick.jpg",
+        "https://i.pinimg.com/originals/49/5a/88/495a88d30e4ec1b011feaedaa2e1f411.jpg",
+        "https://media1.tenor.com/images/4e364add4d3af8ef9efa3d69043a80ba/tenor.gif?itemid=9697765",
+        "https://media.giphy.com/media/TlBiXnmn3jb0s/giphy.gif",
+        "https://i.pinimg.com/originals/eb/22/ed/eb22ed62176ab5f7a26a91c9bc291bdc.gif",
+        "http://24.media.tumblr.com/tumblr_maimbrye2K1r5gr02o1_500.gif",
+        "https://i.kym-cdn.com/entries/icons/original/000/020/143/squidward.jpg",
+        "https://bubblesofthoughtsweb.files.wordpress.com/2017/11/capture4.png?w=454&h=342",
+        "https://i.kym-cdn.com/photos/images/newsfeed/001/550/568/f23.jpg",
+        "https://i.kym-cdn.com/entries/icons/mobile/000/018/259/55181940.jpg",
+        "https://i.imgur.com/CoWZ05t.gif",
+        "https://images-cdn.9gag.com/photo/aq71DV7_700b.jpg",
+        "https://c-sf.smule.com/sf/s78/arr/e2/98/89c335d6-47b1-4981-8efe-d6af70787a3b.jpg",
+        "https://i.kym-cdn.com/photos/images/newsfeed/001/384/545/7b9.jpg*",
+        "https://66.media.tumblr.com/736642e05f37a2bcb6f3806f2dcc56b2/tumblr_pgp91sWx0N1vmskmwo1_500.png",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhUv8bLo67d0wSQ7JUBlja605zSXC9ZC07pLzI4K4H3KS0xlOO",
+        "https://i.pinimg.com/474x/08/6d/f5/086df53921752d10d7fd920eaf47d073.jpg",
+        "https://pbs.twimg.com/profile_images/536527339513856000/9K056IwV.jpeg",
+        "https://static.tvtropes.org/pmwiki/pub/images/dinkleberg_meme.jpg",
+        "https://i.imgur.com/g9PnSNC.jpg",
+        "https://static-us-east-2-fastly-a.www.philo.com/gracenote/assets/p2490125_e_h10_ac.jpg",
+        "https://i.kym-cdn.com/entries/icons/original/000/024/062/jerry.jpg*",
+        "https://i.redd.it/l0vx7t2vkk5z.jpg*",
+        "https://www.dailydot.com/wp-content/uploads/2019/09/naruto-area-51.jpg",
+        "https://i.kym-cdn.com/entries/icons/mobile/000/030/157/womanyellingcat.jpg",
+        "https://media2.giphy.com/media/yx400dIdkwWdsCgWYp/giphy.gif",
+        "https://pics.me.me/duolingo-memes-are-dead-now-made-with-memati-mods-truth-47343524.png",
+        "https://i.kym-cdn.com/entries/icons/mobile/000/023/397/C-658VsXoAo3ovC.jpg*",
+        "https://i.kym-cdn.com/entries/icons/mobile/000/023/687/Screen_Shot_2017-08-16_at_2.40.43_PM.jpg",
+        "https://i.kym-cdn.com/photos/images/newsfeed/001/365/818/183.jpg*",
+        "https://i.kym-cdn.com/photos/images/newsfeed/001/337/421/a78.png",
+        "https://i.kym-cdn.com/entries/icons/square/000/022/255/tumblr_inline_o58r6dmSfe1suaed2_500.gif",
+        "https://i.kym-cdn.com/entries/icons/square/000/017/507/1-13-Skeletor-Orgasm.png",
+        "https://i.kym-cdn.com/entries/icons/mobile/000/017/830/reee.jpg",
+        "https://i.kym-cdn.com/entries/icons/square/000/013/306/2dd.jpg",
+        "https://i.kym-cdn.com/photos/images/newsfeed/001/010/333/732.jpg"
+    ],
     bg: [
         "../img/bg/img78.jpeg",
         "../img/bg/img79.jpeg",
@@ -161,6 +220,55 @@ const libraries = {
         "../img/gb/img154.jpeg",
         "../img/gb/img155.jpeg",
     ],
+    gb: [
+        "/img/gb/img133.jpeg",
+        "/img/gb/img134.jpeg",
+        "/img/gb/img135.jpeg",
+        "/img/gb/img136.jpeg",
+        "/img/gb/img137.jpeg",
+        "/img/gb/img138.jpeg",
+        "/img/gb/img139.jpeg",
+        "/img/gb/img140.jpeg",
+        "/img/gb/img141.jpeg",
+        "/img/gb/img142.jpeg",
+        "/img/gb/img143.jpeg",
+        "/img/gb/img144.jpeg",
+        "/img/gb/img145.jpeg",
+        "/img/gb/img146.jpeg",
+        "/img/gb/img147.jpeg",
+        "/img/gb/img148.jpeg",
+        "/img/gb/img149.jpeg",
+        "/img/gb/img150.jpeg",
+        "/img/gb/img151.jpeg",
+        "/img/gb/img152.jpeg",
+        "/img/gb/img153.jpeg",
+        "/img/gb/img154.jpeg",
+        "/img/gb/img155.jpeg",
+
+    ],
+    gb: ["https://i.kym-cdn.com/entries/icons/original/000/019/698/d96.jpg",
+        "https://i.kym-cdn.com/photos/images/newsfeed/001/577/232/fa2.png",
+        "https://static01.nyt.com/images/2016/09/28/us/17xp-pepethefrog_web1/28xp-pepefrog-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+        "https://i.kym-cdn.com/photos/images/newsfeed/001/571/082/1bc.jpg",
+        "https://steamuserimages-a.akamaihd.net/ugc/391049715156199070/8BCB72026E031E6FA258ACCB1456AC9FBD848838/",
+        "https://i.pinimg.com/236x/ff/c4/d6/ffc4d618b547c73fe6009c14ac001c9e.jpg",
+        "https://memestatic1.fjcdn.com/comments/I+use+spongebob+reaction+images+and+im+floridian+i+dont+_1c0252825e52640c9496faf81c830f8c.jpg",
+        "https://media1.tenor.com/images/4ab1629f755332070627a89f9393dfb2/tenor.gif?itemid=10015736",
+        "https://i.pinimg.com/originals/a0/de/05/a0de053072c99e2dc469543c64fd82a0.jpg",
+        "https://i.kym-cdn.com/entries/icons/original/000/009/803/spongebob-squarepants-patrick-spongebob-patrick-star-background-225039.jpg",
+        "https://media0.giphy.com/media/gWmgIv3ClcBsQ/giphy.gif",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_-dVCGgKOrh2hnW2MsALTU2Dfmug7s-7gz_nvPtSZ7Y2u6eiApg",
+        "https://pbs.twimg.com/media/ECbDYqCWkAE_uBK.jpg:large",
+        "https://i.ytimg.com/vi/p_nMSoaN7DY/hqdefault.jpg",
+        "https://thumbs.gfycat.com/SpryBrownAustraliankestrel-size_restricted.gif",
+        "https://lovemeowroar-img.rbl.ms/simage/https%3A%2F%2Fassets.rbl.ms%2F4148440%2F980x.jpg/2000%2C2000/eW4PYjYx3%2FDnoWgT/img.jpg",
+        "https://memestatic.fjcdn.com/pictures/Internet+cookies+for+sale+for+one+tom+and+jerry+meme_c6cd89_7051573.jpg",
+        "https://i.ytimg.com/vi/cEITn7-Gafc/maxresdefault.jpg",
+        "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/05/Snorlax-Asleep-Pokemon.jpg?q=50&fit=crop&w=738&h=369",
+        "https://i.kym-cdn.com/photos/images/newsfeed/001/504/734/dd1.jpg",
+        "https://i.kym-cdn.com/photos/images/newsfeed/001/394/314/c62.jpg",
+        "https://i.kym-cdn.com/photos/images/newsfeed/000/591/928/94f.png"
+        ],
     gg: [
         "https://66.media.tumblr.com/ad5816bb01a8405257e0eb89dbcfc575/tumblr_p9kkr8ceNF1sga0tjo8_250.jpg",
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyG2wRY-XfgTOyggxLbDmNn0rSUP8clyiGiR19j-ZTlhSHM3Nl",
@@ -251,30 +359,7 @@ submit.onclick = function() {
         }
 
         //Good physicality, bad emotions
-        if (!q1 && q2) {
-            randNum = Math.floor(Math.random() * 55) + 78;
-            function img(){
-                var imgnum = ("img" + randNum + ".jpeg");
-                document.getElementById("greenbox").src= "/img/bg" + "/" + imgnum;
-                }
-        }
 
-        //Bad physicality, good emotions
-        if (q1 && !q2) {
-            randNum = Math.floor(Math.random() * 23) + 133;
-            function img(){
-                var imgnum = ("img" + randNum + ".jpeg");
-                document.getElementById("greenbox").src= "/img/gb" + "/" + imgnum;
-                }
-        }
-
-        //Bad physicality, bad emotions
-        if (!q1 && !q2) {
-            randNum = Math.floor(Math.random() * 36) + 156;
-            function img(){
-                var imgnum = ("img" + randNum + ".jpeg");
-                document.getElementById("greenbox").src= "/img/bb" + "/" + imgnum ;
-                }
         if (!q1 && q2) {
             var imgnum = ("img" + randNum + ".jpeg");
             document.getElementById("imageid").src= libraries.bg[Math.floor(Math.random() * libraries.bg.length)];    
@@ -288,10 +373,11 @@ submit.onclick = function() {
 
         //Bad physicality, bad emotions
         if (!q1 && !q2) {
-            var imgnum = ("img" + randNum + ".jpeg");
-            document.getElementById("imageid").src= libraries.bb[Math.floor(Math.random() * libraries.bb.length) ];       
+            var imgnum = ("img" + randNum + ".jpeg");      
+            document.getElementById("imageid").src= libraries.bb[Math.floor(Math.random() * libraries.bb.length)];       
+
         }
-    }
+    
     }
 
 }
