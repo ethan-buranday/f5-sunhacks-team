@@ -236,6 +236,9 @@ bad2.onclick = function() {
     clicked2 = true;
 }
 
+document.getElementById("imageid").src= "https://i.ibb.co/4MWSjq3/C8-AAF440-D929-468-B-A7-DA-D901-DABB618-F.jpg";
+
+
 submit.onclick = function() {
     //Checks if both questions are answered by user
     if (clicked1 && clicked2) {
@@ -265,7 +268,8 @@ submit.onclick = function() {
             document.getElementById("imageid").src= libraries.bb[Math.floor(Math.random() * libraries.bb.length)];       
 
         }
-    
+        
+        
     }
 
 }
