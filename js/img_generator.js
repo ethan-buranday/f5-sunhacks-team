@@ -201,11 +201,13 @@ const libraries = {
     ]
 }
 
-var good1 = document.getElementsByClassName("good1");
-var good2 = document.getElementsByClassName("good2");;
-var bad1 = document.getElementsByClassName("bad1");
-var bad2 = document.getElementsByClassName("bad2");
-var submit = document.getElementsByClassName("submit");
+var good1 = document.getElementsByClassName("good1")[0];
+var good2 = document.getElementsByClassName("good2")[0];
+var bad1 = document.getElementsByClassName("bad1")[0];
+var bad2 = document.getElementsByClassName("bad2")[0];
+var submit = document.getElementsByClassName("submit")[0];
+
+console.log("good one", good1);
 
 var q1;
 var q2;
@@ -221,7 +223,6 @@ var img;
 good1.onclick = function() {
     q1 = true
     clicked1 = true;
-
 }
 
 bad1.onclick = function() {
@@ -245,40 +246,26 @@ submit.onclick = function() {
         
         //Good physicality, good emotions
         if (q1 && q2) {
-            randNum = Math.floor(Math.random() * 77) + 1;
-            function img(){
-                var imgnum = ("img" + randNum + ".jpeg");
-                document.getElementById("greenbox").src= "/img/gg" + "/" + imgnum;
-                console.log("Succesfully run first");
-                
-                }
+            var imgnum = ("img" + randNum + ".jpeg");
+            document.getElementById("imageid").src= libraries.gg[Math.floor(Math.random() * libraries.gg.length) + 1];  
         }
 
         //Good physicality, bad emotions
         if (!q1 && q2) {
-            randNum = Math.floor(Math.random() * 55) + 78;
-            function img(){
-                var imgnum = ("img" + randNum + ".jpeg");
-                document.getElementById("greenbox").src= "/img/bg" + "/" + imgnum;
-                }
+            var imgnum = ("img" + randNum + ".jpeg");
+            document.getElementById("imageid").src= libraries.bg[Math.floor(Math.random() * libraries.gg.length) + 1];    
         }
 
         //Bad physicality, good emotions
         if (q1 && !q2) {
-            randNum = Math.floor(Math.random() * 23) + 133;
-            function img(){
-                var imgnum = ("img" + randNum + ".jpeg");
-                document.getElementById("greenbox").src= "/img/gb" + "/" + imgnum;
-                }
+            var imgnum = ("img" + randNum + ".jpeg");
+            document.getElementById("imageid").src= libraries.bg[Math.floor(Math.random() * libraries.gg.length) + 1];    
         }
 
         //Bad physicality, bad emotions
         if (!q1 && !q2) {
-            randNum = Math.floor(Math.random() * 36) + 156;
-            function img(){
-                var imgnum = ("img" + randNum + ".jpeg");
-                document.getElementById("greenbox").src= "/img/bb" + "/" + imgnum ;
-                }
+            var imgnum = ("img" + randNum + ".jpeg");
+            document.getElementById("imageid")[0].src= "/img/bb" + "/" + imgnum ;      
         }
     }
 }
