@@ -154,14 +154,13 @@ const libraries = {
         "https://i.ytimg.com/vi/p_nMSoaN7DY/hqdefault.jpg",
         "https://thumbs.gfycat.com/SpryBrownAustraliankestrel-size_restricted.gif",
         "https://lovemeowroar-img.rbl.ms/simage/https%3A%2F%2Fassets.rbl.ms%2F4148440%2F980x.jpg/2000%2C2000/eW4PYjYx3%2FDnoWgT/img.jpg",
-        "https://memestatic.fjcdn.com/pictures/Internet+cookies+for+sale+for+one+tom+and+jerry+meme_c6cd89_7051573.jpg",
         "https://i.ytimg.com/vi/cEITn7-Gafc/maxresdefault.jpg",
         "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/05/Snorlax-Asleep-Pokemon.jpg?q=50&fit=crop&w=738&h=369",
         "https://i.kym-cdn.com/photos/images/newsfeed/001/504/734/dd1.jpg",
         "https://i.kym-cdn.com/photos/images/newsfeed/001/394/314/c62.jpg",
         "https://i.kym-cdn.com/photos/images/newsfeed/000/591/928/94f.png"
         ],
-        
+
     gg: [
         "https://66.media.tumblr.com/ad5816bb01a8405257e0eb89dbcfc575/tumblr_p9kkr8ceNF1sga0tjo8_250.jpg",
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyG2wRY-XfgTOyggxLbDmNn0rSUP8clyiGiR19j-ZTlhSHM3Nl",
@@ -180,14 +179,12 @@ const libraries = {
         "https://i.pinimg.com/736x/62/b5/a2/62b5a2c97af2f2926dae60ed5673ea82.jpg",
         "https://i.pinimg.com/originals/ae/8f/3e/ae8f3e0f85b12eb4e4e419b99d3cd88e.gif",
         "https://media2.giphy.com/media/37I7iDL0qslfa/source.gif",
-        "https://i.imgur.com/LrZQutc.gif",
         "https://66.media.tumblr.com/a2cf8520d5a7478e132b480ce29a7f08/tumblr_pmly2zLunp1y4q8u2o1_250.gif",
         "https://mondrian.mashable.com/uploads%252Fstory%252Fthumbnail%252F90405%252F4df35f72-315a-4c36-acc7-94e920498129.png%252F1200x627.png?signature=UiMAvl84SbAVDEaYF2TP_pukeo8=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com",
         "https://i.kym-cdn.com/photos/images/original/001/106/014/50c.jpg",
         "https://cdn.shopify.com/s/files/1/1061/1924/products/Emoji_Icon_-_Clown_emoji_large.png?v=1542446805",
         "https://i.ytimg.com/vi/UD3PSWkdT0E/maxresdefault.jpg",
         "https://media.comicbook.com/2019/08/jojos-bizarre-adventure-meme-1185222-1280x0.jpeg",
-        "https://memestatic.fjcdn.com/pictures/Jojo+dump+a+collection+of+every+jojo+meme+i+have_02d80a_6265985.jpg",
         "https://img.buzzfeed.com/buzzfeed-static/static/2014-12/2/15/enhanced/webdr05/enhanced-4544-1417553032-7.jpg?downsize=700:*&output-format=auto&output-quality=auto",
         "https://i.kym-cdn.com/photos/images/newsfeed/001/221/798/7e2.gif",
         "https://data.whicdn.com/images/295741147/large.jpg",
