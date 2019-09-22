@@ -201,4 +201,83 @@ const libraries = {
     ]
 }
 
-libraries.bb[Math.random(libraries.bb)]
+var good1 = document.getElementsByClassName("good1");
+var good2 = document.getElementsByClassName("good2");;
+var bad1 = document.getElementsByClassName("bad1");
+var bad2 = document.getElementsByClassName("bad2");
+var submit = document.getElementsByClassName("submit");
+
+var q1;
+var q2;
+
+var clicked1;
+var clicked2;
+
+var randNum;
+
+var img;
+
+
+good1.onclick = function() {
+    q1 = true
+    clicked1 = true;
+
+}
+
+bad1.onclick = function() {
+    q1 = false;
+    clicked1 = true;
+}
+
+good2.onclick = function() {
+    q2 = true
+    clicked2 = true;
+}
+
+bad2.onclick = function() {
+    a1 = false;
+    clicked2 = true;
+}
+
+submit.onclick = function() {
+    //Checks if both questions are answered by user
+    if (clicked1 && clicked2) {
+        
+        //Good physicality, good emotions
+        if (q1 && q2) {
+            randNum = Math.floor(Math.random() * 77) + 1;
+            function img(){
+                var imgnum = ("img" + randNum + ".jpeg");
+                document.getElementById("greenbox").src= "/img/gg" + "/" + imgnum;
+                }
+        }
+
+        //Good physicality, bad emotions
+        if (!q1 && q2) {
+            randNum = Math.floor(Math.random() * 55) + 78;
+            function img(){
+                var imgnum = ("img" + randNum + ".jpeg");
+                document.getElementById("greenbox").src= "/img/bg" + "/" + imgnum;
+                }
+        }
+
+        //Bad physicality, good emotions
+        if (q1 && !q2) {
+            randNum = Math.floor(Math.random() * 23) + 133;
+            function img(){
+                var imgnum = ("img" + randNum + ".jpeg");
+                document.getElementById("greenbox").src= "/img/gb" + "/" + imgnum;
+                }
+        }
+
+        //Bad physicality, bad emotions
+        if (!q1 && !q2) {
+            randNum = Math.floor(Math.random() * 36) + 156;
+            function img(){
+                var imgnum = ("img" + randNum + ".jpeg");
+                document.getElementById("greenbox").src= "/img/bb" + "/" + imgnum ;
+                }
+        }
+    }
+
+}
