@@ -4,7 +4,8 @@ body {
 
 .title {
     text-align: center;
-    font-family:'Roboto',sans-serif;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
     transition: all .2s ease-in-out;
 }
 
@@ -23,6 +24,7 @@ body {
 }
 
 .good1{
+    transition: all .2s ease-in-out;
     align-items: center;
     display: flex;
     justify-content: center;
@@ -33,7 +35,8 @@ body {
     border-radius:0.12em;
     box-sizing: border-box;
     text-decoration:none;
-    font-family:'Roboto',sans-serif;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 15px;
     font-weight:300;
     color:#000000;
     text-align:center;
@@ -42,6 +45,7 @@ body {
 .good1:hover{
     color:#000000;
     background-color:rgba(77, 209, 72, 0.945);
+    transform: scale(1.1);
     }
 @media all and (max-width:30em){
     .good1{
@@ -51,6 +55,7 @@ body {
     }
 
 .good2{
+    transition: all .2s ease-in-out;
     align-items: center;
     display: flex;
     justify-content: center;
@@ -61,7 +66,8 @@ body {
     border-radius:0.12em;
     box-sizing: border-box;
     text-decoration:none;
-    font-family:'Roboto',sans-serif;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 15px;
     font-weight:300;
     color:#000000;
     text-align:center;
@@ -70,6 +76,7 @@ body {
 .good2:hover{
     color:#000000;
     background-color:rgba(77, 209, 72, 0.945);
+    transform: scale(1.1);
     }
 @media all and (max-width:30em){
     .good2{
@@ -79,6 +86,7 @@ body {
     }
 
 .bad1{
+    transition: all .2s ease-in-out;
     align-items: center;
     display: flex;
     justify-content: center;
@@ -89,7 +97,8 @@ body {
     border-radius:0.12em;
     box-sizing: border-box;
     text-decoration:none;
-    font-family:'Roboto',sans-serif;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 15px;
     font-weight:300;
     color:#000000;
     text-align:center;
@@ -98,6 +107,7 @@ body {
 .bad1:hover{
     color:#000000;
     background-color:rgb(223, 60, 60);
+    transform: scale(1.1);
     }
 @media all and (max-width:30em){
     .bad1{
@@ -107,6 +117,7 @@ body {
     }
 
 .bad2{
+    transition: all .2s ease-in-out;
     align-items: center;
     display: flex;
     justify-content: center;
@@ -117,7 +128,8 @@ body {
     border-radius:0.12em;
     box-sizing: border-box;
     text-decoration:none;
-    font-family:'Roboto',sans-serif;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 15px;
     font-weight:300;
     color:#000000;
     text-align:center;
@@ -126,6 +138,7 @@ body {
 .bad2:hover{
     color:#000000;
     background-color:rgb(223, 60, 60);
+    transform: scale(1.1);
     }
 @media all and (max-width:30em){
     .bad2{
@@ -135,6 +148,7 @@ body {
     }
 
 .submit{
+    transition: all .2s ease-in-out;
     align-items: center;
     display: flex;
     justify-content: center;
@@ -145,7 +159,8 @@ body {
     border-radius:0.12em;
     box-sizing: border-box;
     text-decoration:none;
-    font-family:'Roboto',sans-serif;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
     font-weight:300;
     color:#000000;
     text-align:center;
@@ -154,6 +169,7 @@ body {
 .submit:hover{
         color:#000000;
         background-color:rgba(102, 72, 209, 0.945);
+        transform: scale(1.1);
         }
 @media all and (max-width:30em){
     .submit{
@@ -166,19 +182,27 @@ body {
     display: flex;
     justify-content: center;
     text-align: center;
-    font-family:'Roboto',sans-serif;
-    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 25px;
 }
 
 .q2{
     display: flex;
     justify-content: center;
     text-align: center;
-    font-family:'Roboto',sans-serif;
-    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 25px;
 }
+
 #imageid{
+    transition: all .2s ease-in-out;
     align-items: center;
     display: block;
     margin: 0 auto;
+    border: 5px solid rgba(102, 72, 209, 0.945);
+    max-width: 100%;
+    height: 80%;
 }
+#imageid:hover{
+    transform: scale(1.1);
+    }
