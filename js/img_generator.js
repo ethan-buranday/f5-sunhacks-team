@@ -79,87 +79,87 @@ const libraries = {
         "https://i.kym-cdn.com/entries/icons/square/000/017/564/40b.jpg",
     ],
     bg: [
-        "/img/bg/img78.jpeg",
-        "/img/bg/img79.jpeg",
-        "/img/bg/img80.jpeg",
-        "/img/bg/img81.jpeg",
-        "/img/bg/img82.jpeg",
-        "/img/bg/img83.jpeg",
-        "/img/bg/img84.jpeg",
-        "/img/bg/img85.jpeg",
-        "/img/bg/img86.jpeg",
-        "/img/bg/img87.jpeg",
-        "/img/bg/img88.jpeg",
-        "/img/bg/img89.jpeg",
-        "/img/bg/img90.jpeg",
-        "/img/bg/img91.jpeg",
-        "/img/bg/img91.jpeg",
-        "/img/bg/img92.jpeg",
-        "/img/bg/img93.jpeg",
-        "/img/bg/img94.jpeg",
-        "/img/bg/img95.jpeg",
-        "/img/bg/img96.jpeg",
-        "/img/bg/img97.jpeg",
-        "/img/bg/img98.jpeg",
-        "/img/bg/img99.jpeg",
-        "/img/bg/img100.jpeg",
-        "/img/bg/img101.jpeg",
-        "/img/bg/img102.jpeg",
-        "/img/bg/img103.jpeg",
-        "/img/bg/img104.jpeg",
-        "/img/bg/img105.jpeg",
-        "/img/bg/img106.jpeg",
-        "/img/bg/img107.jpeg",
-        "/img/bg/img108.jpeg",
-        "/img/bg/img109.jpeg",
-        "/img/bg/img110.jpeg",
-        "/img/bg/img111.jpeg",
-        "/img/bg/img112.jpeg",
-        "/img/bg/img113.jpeg",
-        "/img/bg/img114.jpeg",
-        "/img/bg/img115.jpeg",
-        "/img/bg/img116.jpeg",
-        "/img/bg/img117.jpeg",
-        "/img/bg/img118.jpeg",
-        "/img/bg/img119.jpeg",
-        "/img/bg/img120.jpeg",
-        "/img/bg/img121.jpeg",
-        "/img/bg/img122.jpeg",
-        "/img/bg/img123.jpeg",
-        "/img/bg/img124.jpeg",
-        "/img/bg/img125.jpeg",
-        "/img/bg/img126.jpeg",
-        "/img/bg/img127.jpeg",
-        "/img/bg/img128.jpeg",
-        "/img/bg/img129.jpeg",
-        "/img/bg/img130.jpeg",
-        "/img/bg/img131.jpeg",
-        "/img/bg/img132.jpeg",
+        "../img/bg/img78.jpeg",
+        "../img/bg/img79.jpeg",
+        "../img/bg/img80.jpeg",
+        "../img/bg/img81.jpeg",
+        "../img/bg/img82.jpeg",
+        "../img/bg/img83.jpeg",
+        "../img/bg/img84.jpeg",
+        "../img/bg/img85.jpeg",
+        "../img/bg/img86.jpeg",
+        "../img/bg/img87.jpeg",
+        "../img/bg/img88.jpeg",
+        "../img/bg/img89.jpeg",
+        "../img/bg/img90.jpeg",
+        "../img/bg/img91.jpeg",
+        "../img/bg/img91.jpeg",
+        "../img/bg/img92.jpeg",
+        "../img/bg/img93.jpeg",
+        "../img/bg/img94.jpeg",
+        "../img/bg/img95.jpeg",
+        "../img/bg/img96.jpeg",
+        "../img/bg/img97.jpeg",
+        "../img/bg/img98.jpeg",
+        "../img/bg/img99.jpeg",
+        "../img/bg/img100.jpeg",
+        "../img/bg/img101.jpeg",
+        "../img/bg/img102.jpeg",
+        "../img/bg/img103.jpeg",
+        "../img/bg/img104.jpeg",
+        "../img/bg/img105.jpeg",
+        "../img/bg/img106.jpeg",
+        "../img/bg/img107.jpeg",
+        "../img/bg/img108.jpeg",
+        "../img/bg/img109.jpeg",
+        "../img/bg/img110.jpeg",
+        "../img/bg/img111.jpeg",
+        "../img/bg/img112.jpeg",
+        "../img/bg/img113.jpeg",
+        "../img/bg/img114.jpeg",
+        "../img/bg/img115.jpeg",
+        "../img/bg/img116.jpeg",
+        "../img/bg/img117.jpeg",
+        "../img/bg/img118.jpeg",
+        "../img/bg/img119.jpeg",
+        "../img/bg/img120.jpeg",
+        "../img/bg/img121.jpeg",
+        "../img/bg/img122.jpeg",
+        "../img/bg/img123.jpeg",
+        "../img/bg/img124.jpeg",
+        "../img/bg/img125.jpeg",
+        "../img/bg/img126.jpeg",
+        "../img/bg/img127.jpeg",
+        "../img/bg/img128.jpeg",
+        "../img/bg/img129.jpeg",
+        "../img/bg/img130.jpeg",
+        "../img/bg/img131.jpeg",
+        "../img/bg/img132.jpeg",
     ],
-    gb: [
-        "/img/gb/img133.jpeg",
-        "/img/gb/img134.jpeg",
-        "/img/gb/img135.jpeg",
-        "/img/gb/img136.jpeg",
-        "/img/gb/img137.jpeg",
-        "/img/gb/img138.jpeg",
-        "/img/gb/img139.jpeg",
-        "/img/gb/img140.jpeg",
-        "/img/gb/img141.jpeg",
-        "/img/gb/img142.jpeg",
-        "/img/gb/img143.jpeg",
-        "/img/gb/img144.jpeg",
-        "/img/gb/img145.jpeg",
-        "/img/gb/img146.jpeg",
-        "/img/gb/img147.jpeg",
-        "/img/gb/img148.jpeg",
-        "/img/gb/img149.jpeg",
-        "/img/gb/img150.jpeg",
-        "/img/gb/img151.jpeg",
-        "/img/gb/img152.jpeg",
-        "/img/gb/img153.jpeg",
-        "/img/gb/img154.jpeg",
-        "/img/gb/img155.jpeg",
+    gb: [   
+        "../img/gb/img133.jpeg",
+        "../img/gb/img134.jpeg",
+        "../img/gb/img135.jpeg",
+        "../img/gb/img136.jpeg",
+        "../img/gb/img137.jpeg",
+        "../img/gb/img138.jpeg",
+        "../img/gb/img139.jpeg",
+        "../img/gb/img140.jpeg",
+        "../img/gb/img141.jpeg",
+        "../img/gb/img142.jpeg",
+        "../img/gb/img143.jpeg",
+        "../img/gb/img144.jpeg",
+        "../img/gb/img145.jpeg",
+        "../img/gb/img146.jpeg",
+        "../img/gb/img147.jpeg",
+        "../img/gb/img148.jpeg",
+        "../img/gb/img149.jpeg",
+        "../img/gb/img150.jpeg",
+        "../img/gb/img151.jpeg",
+        "../img/gb/img152.jpeg",
+        "../img/gb/img153.jpeg",
+        "../img/gb/img154.jpeg",
+        "../img/gb/img155.jpeg",
     ],
     gg: [
         "https://66.media.tumblr.com/ad5816bb01a8405257e0eb89dbcfc575/tumblr_p9kkr8ceNF1sga0tjo8_250.jpg",
@@ -247,12 +247,11 @@ submit.onclick = function() {
         //Good physicality, good emotions
         if (q1 && q2) {
             var imgnum = ("img" + randNum + ".jpeg");
-            document.getElementById("imageid").src= libraries.gg[Math.floor(Math.random() * libraries.gg.length) + 1];  
+            document.getElementById("imageid").src= libraries.gg[Math.floor(Math.random() * libraries.gg.length)];  
         }
 
         //Good physicality, bad emotions
-<<<<<<< HEAD
-        else if (!q1 && q2) {
+        if (!q1 && q2) {
             randNum = Math.floor(Math.random() * 55) + 78;
             function img(){
                 var imgnum = ("img" + randNum + ".jpeg");
@@ -261,7 +260,7 @@ submit.onclick = function() {
         }
 
         //Bad physicality, good emotions
-        else if (q1 && !q2) {
+        if (q1 && !q2) {
             randNum = Math.floor(Math.random() * 23) + 133;
             function img(){
                 var imgnum = ("img" + randNum + ".jpeg");
@@ -270,29 +269,29 @@ submit.onclick = function() {
         }
 
         //Bad physicality, bad emotions
-        else if (!q1 && !q2) {
+        if (!q1 && !q2) {
             randNum = Math.floor(Math.random() * 36) + 156;
             function img(){
                 var imgnum = ("img" + randNum + ".jpeg");
                 document.getElementById("greenbox").src= "/img/bb" + "/" + imgnum ;
                 }
-=======
         if (!q1 && q2) {
             var imgnum = ("img" + randNum + ".jpeg");
-            document.getElementById("imageid").src= libraries.bg[Math.floor(Math.random() * libraries.bg.length) + 1];    
+            document.getElementById("imageid").src= libraries.bg[Math.floor(Math.random() * libraries.bg.length)];    
         }
 
         //Bad physicality, good emotions
         if (q1 && !q2) {
             var imgnum = ("img" + randNum + ".jpeg");
-            document.getElementById("imageid").src= libraries.gb[Math.floor(Math.random() * libraries.gb.length) + 1];    
+            document.getElementById("imageid").src= libraries.gb[Math.floor(Math.random() * libraries.gb.length)];    
         }
 
         //Bad physicality, bad emotions
         if (!q1 && !q2) {
             var imgnum = ("img" + randNum + ".jpeg");
-            document.getElementById("imageid").src= libraries.bb[Math.floor(Math.random() * libraries.bb.length) + 1];       
->>>>>>> 3d7c7ac316a01ede80f62109ae2c1e5563697252
+            document.getElementById("imageid").src= libraries.bb[Math.floor(Math.random() * libraries.bb.length) ];       
         }
     }
+    }
+
 }
