@@ -232,7 +232,7 @@ good2.onclick = function() {
 }
 
 bad2.onclick = function() {
-    a1 = false;
+    q2 = false;
     clicked2 = true;
 }
 
