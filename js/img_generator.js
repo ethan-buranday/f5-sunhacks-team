@@ -249,6 +249,8 @@ submit.onclick = function() {
             function img(){
                 var imgnum = ("img" + randNum + ".jpeg");
                 document.getElementById("greenbox").src= "/img/gg" + "/" + imgnum;
+                console.log("Succesfully run first");
+                
                 }
         }
 
